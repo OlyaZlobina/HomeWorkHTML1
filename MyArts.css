@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(228, 169, 148);
+}
+
+.rightimg {
+    float: right;
+    margin: -10px 890px 10px 10px;
+}
+
+.leftimg {
+    float: left;
+    margin: -10px 30px 10px 10px;
+}
+
+
+h1 {
+    color: rgb(57, 4, 31);
+}
+
+.backdrop {
+    color: rgb(243, 178, 154);
+}
+
+h2 {
+    color: rgb(7, 7, 7)
+}
