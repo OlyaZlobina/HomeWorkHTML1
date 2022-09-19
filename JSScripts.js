@@ -4,15 +4,17 @@
 // alert(`Результат: ${p+2}`);
 
 
-let a = prompt('Введите имя');
-alert(`Привет ${a}!`);
+// let a = prompt('Введите имя');
+// alert(`Привет ${a}!`);
 
 // const name = function(){
 // let a =  prompt('Введите имя')
 // return a;
 // }
 
-// function showName(name){
-// alert(`Привет ${name}`);
-// }
-// showName(Name);
+
+function showName(Name){
+let name = prompt('Введите ваше имя');
+alert(`Привет ${name}!`);
+}
+showName (name);
